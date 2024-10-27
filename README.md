@@ -19,6 +19,8 @@ Import the .flex File
 
 To run the project, import the .flex file from: [andromedaprotocol.io](https://andromedaprotocol.io)
 
+You can access the application from: https://embeddables.testnet.andromedaprotocol.io/galileo-4/tickets
+
 
 ## Viewing on Testnet
 
@@ -69,8 +71,6 @@ Enhanced NFT Customization: More options for customizing NFT tickets.
 
 
 ## Contributing
-
-You can access the application from: https://embeddables.testnet.andromedaprotocol.io/galileo-4/tickets
 
 If you would like to contribute, please create a pull request or report a new issue on the issues page.
 
