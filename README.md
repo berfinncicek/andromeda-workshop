@@ -17,7 +17,7 @@ Andromeda Technology: The application utilizes the advanced features of the Andr
 
 Import the .flex File
 
-To run the project, import the .flex file from andromedaprotocol.io.
+To run the project, import the .flex file from: andromedaprotocol.io.
 
 
 ## Viewing on Testnet
