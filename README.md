@@ -22,28 +22,10 @@
 
 
 ## Installation and Setup
-1. Clone the repository:
-    ```bash
-    git clone <repository-link>
-    cd andromeda-ticketing-dapp
-    ```
+Install dependencies:
 
-2. Install dependencies:
-    ```bash
-    npm install
-    ```
+```bash
+npm install
+npm run dev
 
-3. Run the application:
-    ```bash
-    npm run dev
-    ```
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Acknowledgements
-- Andromeda Network for their blockchain infrastructure.
-- All contributors and users supporting the project.
-
-## Contact
-For any inquiries, please contact Berfin Zeliha Çiçek at [berfinzelihacicek@gmail.com].
